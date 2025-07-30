@@ -32,7 +32,7 @@ The users should be able to:
 
 ### Links
 
-- Solution URL: [Github/Testimonial-Grid-Section]()
+- Solution URL: [Github/Testimonial-Grid-Section](https://github.com/Genrex7/testimonials-grid-section)
 - Live Site URL: [Frontend-Mentor/Testimonial-Grid-Section]()
 
 ## My process
