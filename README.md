@@ -33,7 +33,7 @@ The users should be able to:
 ### Links
 
 - Solution URL: [Github/Testimonial-Grid-Section](https://github.com/Genrex7/testimonials-grid-section)
-- Live Site URL: [Frontend-Mentor/Testimonial-Grid-Section]()
+- Live Site URL: [Frontend-Mentor/Testimonial-Grid-Section](https://testimonials-grid-section-lyart-one.vercel.app/)
 
 ## My process
 
